@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mayikt_code/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-basics/meite-shop-basics-springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-service-api/meite-shop-service-api-member/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-service-api/meite-shop-service-api-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-service-impl/meite-shop-service-member/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-service-impl/meite-shop-service-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/mayikt_code/meite-shop-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-basics/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
